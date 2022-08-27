@@ -6,8 +6,8 @@ generator client {
 }
 
 datasource db {
-  provider = "mysql"
-  url      = env("CLEARDB_DATABASE_URL")
+  provider = "postgresql"
+  url      = env("POSTGRES_DATABASE_URL")
 }
 
 model Player {
@@ -282,7 +282,7 @@ model PlayerAvatar {
 model Config {
   id    Int    @id @default(autoincrement())
   name  String @unique
-  value String @db.LongText
+  value String @db.Text
 }
 
 model Trade {

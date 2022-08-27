@@ -36,9 +36,10 @@ Siga esses passos:
 
 1. Acesse a aba de Resources. Na seção Add-ons, você irá procurar por "Heroku Postgres".
 
-![image](https://user-images.githubusercontent.com/71353674/160009589-58dd6722-0b31-45bc-b4db-65734460627e.png)
+![heroku-postgres](https://user-images.githubusercontent.com/111664093/187009324-05899c44-1a70-40d3-b501-8e87b1a9cba7.png)
 
 2. Selecione esse item e logo após surgirá uma tela de planos. Selecione o plano "Hobby Dev - Free", digite o nome do seu App e selecione no campo "App to provision to" clique em "Submit Order Form".
+
 
 3. Prontinho. Seu banco de dados está pronto para uso!
 

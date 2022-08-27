@@ -34,12 +34,13 @@ Primeiramente, você irá precisar de um cartão de crédito. Não se preocupe, 
 
 Siga esses passos:
 
-1. Acesse a aba de Resources. Na seção Add-ons, você irá procurar por "ClearDB MySQL".
+1. Acesse a aba de Resources. Na seção Add-ons, você irá procurar por "Heroku Postgres".
 
 ![image](https://user-images.githubusercontent.com/71353674/160009589-58dd6722-0b31-45bc-b4db-65734460627e.png)
 
-2. Selecione esse item e logo após surgirá uma tela de planos. Selecione o plano Ignite - Free e clique em "Submit Order Form". Caso ele peça seu cartão de crédito, preencha.
-3. Após um tempo, a ordem de "compra" irá suceder, e o banco de dados estará instalado e pronto para uso!
+2. Selecione esse item e logo após surgirá uma tela de planos. Selecione o plano "Hobby Dev - Free", digite o nome do seu App e selecione no campo "App to provision to" clique em "Submit Order Form".
+
+3. Prontinho. Seu banco de dados está pronto para uso!
 
 ### Fazendo o Deploy
 
